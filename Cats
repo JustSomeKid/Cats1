@@ -1,0 +1,43 @@
+<html>
+
+<title>CATS</title>
+
+<head>
+<b><font size='7'face='Arial'color='pink'><u>CATS, CATS, CATS & CATS</u></font></b>
+</head>
+
+<body bgcolor='black'>
+
+<p>
+<i><font size='6'face='Arial'color='pink'>CATS, CATS & CATS</font></i>
+</p>
+
+<p>
+<i><font size='5'face='Arial'color='pink'>CATS & CATS</font></i>
+</p>
+
+<p>
+<img src='C:\Users\User\Pictures\Kitsi.jpg'width='500'height='200'/>
+</p>
+
+<ul>
+<i><font size='4'face='Arial'color='pink'>
+<li>CATS</li>
+<li>ATS</li>
+<li>TS</li>
+<li>S</li>
+</ul>
+</font></i>
+
+<p>
+<p align='right'>
+<br>
+<font size='3'face='Arial'color='red'><b><u>Looki Looki !!</u></b></font>
+</br>
+<font size='5'face='Arial Black'>
+<a href=https://www.google.com.na/search?q=cats&dcr=0&source=lnms&tbm=isch&sa=X&ved=0ahUKEwimtsbsm53WAhUsAcAKHZ7vAM4Q_AUICigB&biw=1366&bih=638>CATS?</a>
+</font>
+</p>
+
+</body>
+</html>
